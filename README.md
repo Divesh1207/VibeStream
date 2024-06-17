@@ -1,6 +1,7 @@
 # VibeStream Hub
-VibeStream Hub revolutionizes video streaming by harnessing React to deliver a frontend-centric platform that redefines user engagement. It thrives on offering   functionalities such as genre-specific browsing, personalized recommendations, and real-time data updates. Users navigate through a rich repository of videos categorized into various genres, allowing them to explore and discover content aligned with their interests effortlessly. The platform's interactive elements, including likes, dislikes, and comments, enable active participation within the community while influencing content suggestions dynamically. VibeStream Hub's commitment to a seamless user experience is underscored by its responsive design, ensuring optimal performance across desktops, tablets, and mobile devices. Whether users are discovering new favorites or interacting with familiar content, VibeStream Hub guarantees an immersive and responsive video-watching experience tailored to individual preferences and viewing habits.
+VibeStream Hub leverages React to provide a frontend-focused video streaming platform designed to enhance user engagement. It features genre-specific browsing, personalized recommendations, and real-time updates to enrich the viewing experience. Users can effortlessly navigate a diverse library of videos categorized by genre, facilitating easy exploration of content aligned with their interests. Interactive elements such as liking, disliking, and commenting foster community engagement and influence personalized content suggestions in real-time. VibeStream Hub ensures a seamless user experience with its responsive design, optimizing performance across various devices. Whether discovering new favorites or engaging with familiar content, VibeStream Hub offers an immersive video-watching experience tailored to individual preferences and viewing habits.
 
+![Screenshot 2024-06-17 152347](https://github.com/Divesh1207/VibeStream/assets/88198940/06f97da9-3b0b-4db2-b375-149854d527f9)
 
 
 
@@ -15,6 +16,7 @@ VibeStream Hub revolutionizes video streaming by harnessing React to deliver a f
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [License](#license)
+- [Screenshots](#screenshots)
 
 ## Features
 - Explore Diverse Content:                                                 
@@ -110,3 +112,20 @@ npm start
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Screenshots
+
+**HomePage**
+![Screenshot 2024-06-17 152347](https://github.com/Divesh1207/VibeStream/assets/88198940/06f97da9-3b0b-4db2-b375-149854d527f9)
+
+
+**Trending Page**
+
+![image](https://github.com/Divesh1207/VibeStream/assets/88198940/2ac9179f-134c-41de-b341-a21c1dea52f4)
+
+**Stream**
+
+![image](https://github.com/Divesh1207/VibeStream/assets/88198940/17a4ee2e-2497-43bb-9c8b-f3dbb6cdcfe8)
+
+
