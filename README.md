@@ -116,16 +116,22 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Screenshots
 
-**HomePage**
+- HomePage
+
 ![Screenshot 2024-06-17 152347](https://github.com/Divesh1207/VibeStream/assets/88198940/06f97da9-3b0b-4db2-b375-149854d527f9)
 
 
-**Trending Page**
+- Trending Page
 
 ![image](https://github.com/Divesh1207/VibeStream/assets/88198940/2ac9179f-134c-41de-b341-a21c1dea52f4)
 
-**Stream**
+- Stream
 
 ![image](https://github.com/Divesh1207/VibeStream/assets/88198940/17a4ee2e-2497-43bb-9c8b-f3dbb6cdcfe8)
+
+- Responsive
+
+![image](https://github.com/Divesh1207/VibeStream/assets/88198940/decc9338-652c-4b3b-a656-fc2c73232c50)
+
 
 
